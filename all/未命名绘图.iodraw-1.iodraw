@@ -23,7 +23,7 @@
           <mxGeometry x="38" y="205" width="275" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-98" value="机械限幅与船舶安全约束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffd4d4;strokeColor=#ef6b6b;fontColor=#000000;fontSize=18;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="38" y="280" width="275" height="45" as="geometry" />
+          <mxGeometry x="38" y="282" width="275" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-99" value="低成本前置扫描与采样规划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe2a5;strokeColor=#c99519;fontColor=#000000;fontSize=17;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="360" y="128" width="255" height="45" as="geometry" />
@@ -464,7 +464,7 @@
             <mxPoint x="360" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
+        <mxCell id="bpolhpYiT21xG30Qf_LE-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bpolhpYiT21xG30Qf_LE-98" target="bpolhpYiT21xG30Qf_LE-101">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="237" as="sourcePoint" />
             <mxPoint x="370" y="237" as="targetPoint" />
