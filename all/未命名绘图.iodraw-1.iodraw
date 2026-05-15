@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="技术路线图" id="NqiZPTEjdU90mFMumOE5">
-    <mxGraphModel dx="1129" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2007" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,9 @@
         <mxCell id="bpolhpYiT21xG30Qf_LE-123" value="输入&lt;br&gt;/ 支撑" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#d40000;fontSize=19;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="500" width="56" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="bpolhpYiT21xG30Qf_LE-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#083f49;fontColor=#000000;fontSize=18;strokeWidth=3;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
+          <mxGeometry x="98" y="488" width="1062" height="335" as="geometry" />
+        </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-125" value="研究内容二：不确定性感知代理建模与主动采样" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#083f49;fontSize=25;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="505" width="640" height="36" as="geometry" />
         </mxCell>
@@ -163,12 +166,6 @@
         <mxCell id="bpolhpYiT21xG30Qf_LE-132" value="预测均值与不确定性评估" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#174b65;strokeColor=#0b3340;fontColor=#ffffff;fontSize=19;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="653" width="290" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="698" as="sourcePoint" />
-            <mxPoint x="575" y="724" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-138" value="主动采样准则：高访问 + 高不确定 + 约束活跃" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe2a5;strokeColor=#c99519;fontColor=#000000;fontSize=19;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="420" y="724" width="410" height="45" as="geometry" />
         </mxCell>
@@ -183,17 +180,6 @@
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-147" value="独立验证：全局区域 / 边界区域 / 控制访问区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe2a5;strokeColor=#c99519;fontColor=#000000;fontSize=19;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="295" y="785" width="640" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d40000;strokeWidth=4;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1105" y="568" as="sourcePoint" />
-            <mxPoint x="1148" y="568" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1148" y="568" />
-              <mxPoint x="1148" y="770" />
-              <mxPoint x="1105" y="770" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d40000;strokeWidth=4;endArrow=block;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
