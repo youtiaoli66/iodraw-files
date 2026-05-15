@@ -65,6 +65,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="bpolhpYiT21xG30Qf_LE-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="228" as="sourcePoint" />
+            <mxPoint x="665" y="236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-111" value="船舶坐标系力学映射" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cfead2;strokeColor=#4d9b69;fontColor=#000000;fontSize=18;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="880" y="125" width="280" height="48" as="geometry" />
         </mxCell>
