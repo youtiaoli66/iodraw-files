@@ -8,7 +8,7 @@
           <mxGeometry x="95" y="8" width="1065" height="42" as="geometry" />
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#083f49;fontColor=#000000;fontSize=18;strokeWidth=3;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="1218" height="385" as="geometry" />
+          <mxGeometry x="18" y="60" width="1218" height="385" as="geometry" />
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-94" value="研究内容一：控制导向气动可行域构建" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#083f49;fontSize=25;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="75" width="520" height="36" as="geometry" />
@@ -464,10 +464,10 @@
         <mxCell id="bpolhpYiT21xG30Qf_LE-182" value="输出：高效、安全、可解释的&lt;br&gt;协同控制策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d40000;strokeColor=#b00000;fontColor=#ffffff;fontSize=20;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="812" y="1128" width="305" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
+        <mxCell id="bpolhpYiT21xG30Qf_LE-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpolhpYiT21xG30Qf_LE-96">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="237" as="sourcePoint" />
-            <mxPoint x="370" y="237" as="targetPoint" />
+            <mxPoint x="360" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
