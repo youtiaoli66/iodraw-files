@@ -34,14 +34,13 @@
         <mxCell id="bpolhpYiT21xG30Qf_LE-10" value="压力分布与气动力提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe2a5;strokeColor=#c99519;fontColor=#000000;fontSize=17;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="360" y="282" width="255" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1">
+        <mxCell id="bpolhpYiT21xG30Qf_LE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;" edge="1" parent="1" target="bpolhpYiT21xG30Qf_LE-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="313" y="152" as="sourcePoint" />
             <mxPoint x="360" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="313" y="153" />
-              <mxPoint x="361" y="153" />
-              <mxPoint x="361" y="150" />
+              <mxPoint x="350" y="152" />
+              <mxPoint x="350" y="152" />
             </Array>
           </mxGeometry>
         </mxCell>
