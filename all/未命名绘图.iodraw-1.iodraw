@@ -300,15 +300,6 @@
             <mxPoint x="620" y="855" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-153" value="闭环&lt;br&gt;反馈" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#d40000;fontSize=19;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="3" y="838" width="65" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bpolhpYiT21xG30Qf_LE-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#d40000;strokeWidth=5;endArrow=block;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="1060" as="sourcePoint" />
-            <mxPoint x="60" y="850" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-155" value="应用&lt;br&gt;/ 验证" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#d40000;fontSize=19;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="1165" y="832" width="68" height="86" as="geometry" />
         </mxCell>
