@@ -109,12 +109,7 @@
         <mxCell id="bpolhpYiT21xG30Qf_LE-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4b56;strokeWidth=3;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bpolhpYiT21xG30Qf_LE-107">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="732" y="260" as="sourcePoint" />
-            <mxPoint x="730" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="737" y="318" />
-              <mxPoint x="731" y="318" />
-              <mxPoint x="731" y="370" />
-            </Array>
+            <mxPoint x="730" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bpolhpYiT21xG30Qf_LE-118" value="安全高效区 / 安全降载区 / 不可行危险区 / 退出工况" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe2a5;strokeColor=#c99519;fontColor=#000000;fontSize=22;strokeWidth=2;opacity=100;align=center;verticalAlign=middle;spacing=4;" vertex="1" parent="1">
