@@ -40,7 +40,7 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-12" value="主导约束识别&lt;br&gt;边界切换规律" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#d8e8f6;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="327" y="374" width="194" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="263" y="153" as="sourcePoint" />
             <Array as="points">
@@ -70,7 +70,7 @@
             <mxPoint x="335" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="263" y="369" as="sourcePoint" />
             <Array as="points">
