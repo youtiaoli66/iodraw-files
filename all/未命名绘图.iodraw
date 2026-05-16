@@ -22,7 +22,7 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-6" value="双元素翼帆典型构型&lt;br&gt;攻角&lt;i&gt;α&lt;/i&gt;/襟翼偏角&lt;i&gt;δ&lt;sub&gt;f&lt;/sub&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="124" width="236" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-7" value="表观风条件&lt;br&gt;V_AW / β_AW" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-7" value="表观风条件&lt;br&gt;&lt;i&gt;V&lt;sub&gt;AW&lt;/sub&gt; /β&lt;sub&gt;AW&lt;/sub&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="196" width="236" height="58" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-8" value="快速二维气动计算&lt;br&gt;大范围参数扫描" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=17;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
