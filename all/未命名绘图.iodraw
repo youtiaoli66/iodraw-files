@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="EmvY8ZkOb_vntMzKrTRv">
-    <mxGraphModel dx="645" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="215" dy="127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,7 +404,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-92" value="经济型 NMPC&lt;br&gt;控制变量：α, δ_f, 舵角, 转速" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#064d68;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#ffffff;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1017" width="214" height="76" as="geometry" />
+          <mxGeometry x="330" y="1017" width="210" height="76" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-93" value="目标函数&lt;br&gt;节能 + 航程 + 航向误差&lt;br&gt;+ 控制变化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="328.5" y="1107.5" width="213" height="76" as="geometry" />
@@ -436,7 +436,7 @@
             <mxPoint x="330" y="1056.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="G4cNS0fi42XOdE89eaub-93" source="G4cNS0fi42XOdE89eaub-92">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="437" y="1100" as="sourcePoint" />
             <mxPoint x="437" y="1117" as="targetPoint" />
