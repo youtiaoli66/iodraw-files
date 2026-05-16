@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="EmvY8ZkOb_vntMzKrTRv">
-    <mxGraphModel dx="1290" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="46" width="1102" height="409" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-3" value="研究内容一：" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#05384d;strokeWidth=1.8;fillColor=#064d68;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#ffffff;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="26" y="59" width="135" height="34" as="geometry" />
+          <mxGeometry x="26" y="59" width="144" height="34" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-4" value="双元素翼帆气动可行域与安全边界构建" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;fontColor=#083b57;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="184" y="62" width="520" height="30" as="geometry" />
