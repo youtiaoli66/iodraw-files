@@ -499,12 +499,13 @@
             <mxPoint x="589" y="1062" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#e52525;strokeWidth=2.65;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;curved=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#e52525;strokeWidth=2.65;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;curved=0;entryX=-0.001;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="G4cNS0fi42XOdE89eaub-114">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="557" y="1330" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="574" y="1330" />
               <mxPoint x="574" y="1145" />
+              <mxPoint x="589" y="1145" />
             </Array>
             <mxPoint x="675" y="1145" as="targetPoint" />
           </mxGeometry>
@@ -523,18 +524,6 @@
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-118" value="评价指标&lt;br&gt;节能率 / 横倾 /&lt;br&gt;航向 / 越界次数" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=13;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="908" y="1231" width="126" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#e52525;strokeWidth=2.65;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="1292" as="sourcePoint" />
-            <mxPoint x="820" y="1306" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#e52525;strokeWidth=2.65;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="971" y="1292" as="sourcePoint" />
-            <mxPoint x="971" y="1306" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-122" value="验证协同控制与安全降载有效性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="648" y="1306" width="320" height="43" as="geometry" />
