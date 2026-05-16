@@ -237,7 +237,7 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-49" value="响应预测&lt;br&gt;F_x, F_y, M_heel,&lt;br&gt;M_yaw, SM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#bde2cf;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="786" width="216" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="G4cNS0fi42XOdE89eaub-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="135" y="612" as="sourcePoint" />
             <mxPoint x="135" y="624" as="targetPoint" />
