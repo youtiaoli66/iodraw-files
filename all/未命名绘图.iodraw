@@ -410,7 +410,7 @@
           <mxGeometry x="340" y="1117" width="196" height="76" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-94" value="安全约束&lt;br&gt;失速 / 横倾 / 偏航 / 执行机构&lt;br&gt;航向与摇荡" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="337" y="1206" width="202" height="87" as="geometry" />
+          <mxGeometry x="337" y="1206" width="223" height="87" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-95" value="代理不确定性约束收紧&lt;br&gt;更保守的安全控制" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="337" y="1305" width="220" height="50" as="geometry" />
