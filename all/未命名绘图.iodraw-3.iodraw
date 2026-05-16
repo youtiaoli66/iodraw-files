@@ -527,42 +527,6 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-122" value="验证协同控制与安全降载有效性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="648" y="1299" width="320" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-123" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=1.5;fillColor=#f5b3ba;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="33" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-124" value="输入 / 条件" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="73" y="1371" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-125" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=1.5;fillColor=#064d68;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="207" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-126" value="模型 / 数据库" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="247" y="1371" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-127" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=1.5;fillColor=#d8e8f6;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="383" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-128" value="边界 / 约束 / 结果" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="423" y="1371" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-129" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=1.5;fillColor=#f6bf32;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="591" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-130" value="决策 / 控制 / 输出" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="631" y="1371" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-131" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=1.5;fillColor=#bde2cf;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="783" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-132" value="分析 / 验证" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="823" y="1371" width="120" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-133" value="" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#e52525;strokeWidth=2;fillColor=none;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;dashed=1;dashPattern=8 6;" parent="1" vertex="1">
-          <mxGeometry x="959" y="1371" width="34" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-134" value="闭环 / 验证模块" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=14;fontStyle=1;fontColor=#111111;align=left;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
-          <mxGeometry x="999" y="1371" width="140" height="24" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
