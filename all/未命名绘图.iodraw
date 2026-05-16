@@ -371,7 +371,7 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-78" value="A(x)=w1·f_op(x)+w2/(d_boundary+ε)+w3·σ(x)+w4·g_explore(x)" style="rounded=0;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#e52525;strokeWidth=2;fillColor=#ffffff;fontFamily=Microsoft YaHei;fontSize=12.3;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="590" y="850" width="440" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
+        <mxCell id="G4cNS0fi42XOdE89eaub-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="514" y="820" as="sourcePoint" />
             <Array as="points">
