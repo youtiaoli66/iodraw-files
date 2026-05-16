@@ -371,16 +371,6 @@
             <mxPoint x="570" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G4cNS0fi42XOdE89eaub-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0b4c6c;strokeWidth=2.35;endArrow=block;endFill=1;endSize=6.0;startArrow=none;startFill=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="413" y="854" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="413" y="925" />
-              <mxPoint x="562" y="925" />
-            </Array>
-            <mxPoint x="562" y="948" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-81" value="不确定性代理模型 / 安全约束接口" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=15;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="445" y="916" width="295" height="26" as="geometry" />
         </mxCell>
