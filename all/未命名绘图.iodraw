@@ -379,8 +379,11 @@
         <mxCell id="G4cNS0fi42XOdE89eaub-86" value="轻量化全船耦合预测模型&lt;br&gt;纵荡 / 横荡 / 艏摇 / 横摇" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#d8e8f6;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="1087" width="225" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="9SznwaFRCmgrXjgQzumm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G4cNS0fi42XOdE89eaub-87" target="G4cNS0fi42XOdE89eaub-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-87" value="翼帆气动力&lt;br&gt;代理模型实时查询" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#bde2cf;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="27" y="1173" width="225" height="64" as="geometry" />
+          <mxGeometry x="27" y="1180" width="225" height="57" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-88" value="舵力模型 + 推进系统&lt;br&gt;主机 / 螺旋桨静态特性" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#0b3e59;strokeWidth=2;fillColor=#bde2cf;fontFamily=Microsoft YaHei;fontSize=16;fontStyle=1;fontColor=#111111;align=center;verticalAlign=middle;spacing=6;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="27" y="1262" width="225" height="72" as="geometry" />
