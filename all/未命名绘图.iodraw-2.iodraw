@@ -398,7 +398,7 @@
           <mxGeometry x="10" y="951" width="1102" height="411" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-83" value="研究内容三：" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=#05384d;strokeWidth=1.8;fillColor=#064d68;fontFamily=Microsoft YaHei;fontSize=21;fontStyle=1;fontColor=#ffffff;align=center;verticalAlign=middle;spacing=6;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="26" y="964" width="135" height="34" as="geometry" />
+          <mxGeometry x="26" y="964" width="164" height="34" as="geometry" />
         </mxCell>
         <mxCell id="G4cNS0fi42XOdE89eaub-84" value="翼帆—船—推进协同控制与安全降载" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;rounded=0;fontFamily=Microsoft YaHei;fontSize=23;fontStyle=1;fontColor=#083b57;align=left;verticalAlign=middle;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="184" y="967" width="520" height="30" as="geometry" />
